@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
 				"meta_",
 				"meta_value"
 			],
@@ -98,10 +126,6 @@
 			[
 				"picture",
 				"current_picture"
-			],
-			[
-				"text-",
-				"text-align"
 			],
 			[
 				"curret",
@@ -212,14 +236,6 @@
 				"password2"
 			],
 			[
-				"font",
-				"font-size"
-			],
-			[
-				"text",
-				"text-align"
-			],
-			[
 				"border-",
 				"border-radius"
 			],
@@ -229,10 +245,6 @@
 			],
 			[
 				"list",
-				"listLastName"
-			],
-			[
-				"lis",
 				"listLastName"
 			],
 			[
@@ -360,22 +372,27 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<meta charset=\"UTF-8\">\n	<meta viewport=\"width=device-width, initial-scale=1\">\n	<title><?php bloginfo(); ?></title>\n	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css'>\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\">\n</head>\n<body>\nazdadadada\n\n	<script src=\"//code.jquery.com/jquery-1.11.3.min.js\"></script>\n</body>\n</html>",
-			"file": "/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/index.php",
-			"file_size": 408,
-			"file_write_time": 130912779368876553,
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 418,
+				"buffer_size": 624,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/style.css",
+			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 293,
+				"buffer_size": 3423,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 760,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -427,6 +444,10 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentyfifteen/header.php",
+		"/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentyfifteen/index.php",
+		"/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/index.php",
+		"/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/style.css",
 		"/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/functions.php",
 		"/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/header.php",
 		"/C/xampp/htdocs/wordpress2/wp-content/themes/twentyfifteen-exo2/functions.php",
@@ -550,15 +571,11 @@
 		"/C/xampp/htdocs/minicine/partials/sidebar-news.php",
 		"/C/Users/Etudiant/Desktop/AdrienRousselet/FondamentauxJQuery/Exo2/js/scripts.js",
 		"/C/xampp/htdocs/FondamentauxPhp2/shop/inc/func.php",
-		"/C/xampp/htdocs/minicine/news.php",
-		"/C/xampp/htdocs/minicine/src/movie.html",
-		"/C/xampp/htdocs/minicine/contact.php",
-		"/C/xampp/htdocs/minicine/movie.ph.html",
-		"/C/xampp/htdocs/minicine/inc/db.php"
+		"/C/xampp/htdocs/minicine/news.php"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -771,32 +788,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/index.php",
+					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 418,
+						"buffer_size": 624,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								337,
-								337
+								616,
+								616
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright (SL).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -807,32 +823,60 @@
 			[
 				{
 					"buffer": 1,
-					"file": "/C/xampp/htdocs/wordpressGRTgaz/wp-content/themes/twentythirteen-GRTgaz/style.css",
+					"file": "style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 293,
+						"buffer_size": 3423,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								3258,
+								3258
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright (SL).tmTheme",
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3571.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 295.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -918,7 +962,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -926,7 +970,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 250.0,
+	"side_bar_width": 177.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
